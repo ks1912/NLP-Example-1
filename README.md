@@ -9,3 +9,5 @@ We have a NLP code which will be used for analysing the review of a store amd th
 3. pip version --> 19.1.1
 
 4. Anaconda --> 4.7.10
+
+5. Dataset --> TSV ( Tab Seperated Value ) File
